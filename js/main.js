@@ -33,8 +33,5 @@ new Vue({
   router,
   data : {
     name : 'hasan'
-  },
-  beforeCreate () {
-    alert('hello world')
   }
 }).$mount(`#app`);

@@ -25,7 +25,29 @@
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/theme-1.css">
 
-    <link href="https://unpkg.com/nprogress@0.2.0/nprogress.css" rel="stylesheet" />
+    <style media="screen">
+    #wrap {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      overflow: hidden;
+      }
+      .ball {
+      pointer-events: none;
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: gray;
+      animation: implode 1s ease-in-out;
+      animation-fill-mode: both;
+      opacity: .5;
+      }
+
+      @keyframes implode {
+      100% {transform: scale(0)}
+      }
+    </style>
 
 </head>
 
@@ -93,7 +115,6 @@
     <script src="js/vendor/vue.min.js"></script>
     <script src="js/vendor/vue-router.js"></script>
 
-    <script src="https://unpkg.com/nprogress@0.2.0/nprogress.js"></script>
     <!-- pages -->
     <script src="js/pages/contact.js"></script>
     <script src="js/pages/blogs.js"></script>
@@ -118,7 +139,43 @@
     <!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
     <script type="text/javascript" src="assets/js/demo/style-switcher.js"></script>
 
+    <script type="text/javascript">
+      var mousePos = {};
 
+      function getRandomInt(min, max) {
+       return Math.round(Math.random() * (max - min + 1)) + min;
+      }
+
+      $(window).mousemove(function(e) {
+        mousePos.x = e.pageX;
+        mousePos.y = e.pageY;
+      });
+
+      $(window).mouseleave(function(e) {
+        mousePos.x = -1;
+        mousePos.y = -1;
+      });
+
+      var draw = setInterval(function(){
+        if(mousePos.x > 0 && mousePos.y > 0){
+
+          var range = 15;
+
+          var color = "background: rgb("+getRandomInt(0,255)+","+getRandomInt(0,255)+","+getRandomInt(0,255)+");";
+
+          var sizeInt = getRandomInt(5, 20);
+          size = "height: " + sizeInt + "px; width: " + sizeInt + "px;";
+
+          var left = "left: " + getRandomInt(mousePos.x-range-sizeInt, mousePos.x+range) + "px;";
+
+          var top = "top: " + getRandomInt(mousePos.y-range-sizeInt, mousePos.y+range) + "px;";
+
+          var style = left+top+color+size;
+          $("<div class='ball' style='" + style + "'></div>").appendTo('#wrap').one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend", function(){$(this).remove();});
+        }
+      }, 1);
+      });
+    </script>
 </body>
 
 <!-- Mirrored from themes.3rdwavemedia.com/instance/bs4/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 16 Sep 2018 06:27:15 GMT -->
