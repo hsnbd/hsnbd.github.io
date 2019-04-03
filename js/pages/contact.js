@@ -15,11 +15,11 @@ var Contact = {
               <ul class="social-list-color list-inline mb-0">
                   <li class="list-inline-item mb-3"><a class="twitter" href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
 
-                    <li class="list-inline-item mb-3"><a class="linkedin" href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-                    <li class="list-inline-item mb-3"><a class="github" href="#"><i class="fab fa-github-alt fa-fw"></i></a></li>
-                    <li class="list-inline-item mb-3"><a class="stack-overflow" href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
-                    <li class="list-inline-item mb-3"><a class="medium" href="#"><i class="fab fa-medium-m fa-fw"></i></a></li>
-                    <li class="list-inline-item mb-3"><a class="codepen" href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
+                    <li class="list-inline-item mb-3"><a class="linkedin" target="_blank" href="https://twitter.com/baker_hasan"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+                    <li class="list-inline-item mb-3"><a class="github" target="_blank" href="https://github.com/hsnbd"><i class="fab fa-github-alt fa-fw"></i></a></li>
+                    <li class="list-inline-item mb-3"><a class="stack-overflow" target="_blank" href="https://stackoverflow.com/users/7715828/hasan-bd"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
+                    <li class="list-inline-item mb-3"><a class="medium" target="_blank" href="https://medium.com/@hsnbd"><i class="fab fa-medium-m fa-fw"></i></a></li>
+                    <li class="list-inline-item mb-3"><a class="codepen" target="_blank" href="https://codepen.io/hsnbd/"><i class="fab fa-codepen fa-fw"></i></a></li>
 
 
                     <!--<li class="list-inline-item mb-3"><a class="facebook" href="#"><i class="fab fa-facebook-f fa-fw"></i></a></li>-->

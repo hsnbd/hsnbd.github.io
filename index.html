@@ -8,8 +8,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Responsive Portfolio Template">
-    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
+    <meta name="description" content="My Personal Portfolio | Baker Hasan">
+    <meta name="author" content="Baker Hasan">
     <link rel="shortcut icon" href="favicon.ico">
 
     <!-- Google Font -->
@@ -43,7 +43,6 @@
       animation-fill-mode: both;
       opacity: .5;
       }
-
       @keyframes implode {
       100% {transform: scale(0)}
       }
@@ -64,11 +63,11 @@
 
 
   					<ul class="social-list list-inline mb-0">
-  			            <li class="list-inline-item"><a class="text-white" href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-  		                <li class="list-inline-item"><a class="text-white" href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-  		                <li class="list-inline-item"><a class="text-white" href="#"><i class="fab fa-github-alt fa-fw"></i></a></li>
-  		                <li class="list-inline-item"><a class="text-white" href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
-  		                <li class="list-inline-item"><a class="text-white" href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
+  			            <li class="list-inline-item"><a class="text-white" target="_blank" href="https://twitter.com/baker_hasan"><i class="fab fa-twitter fa-fw"></i></a></li>
+  		                <li class="list-inline-item"><a class="text-white" target="_blank" href="https://www.linkedin.com/in/baker-hasan/"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+  		                <li class="list-inline-item"><a class="text-white" target="_blank" href="https://github.com/hsnbd"><i class="fab fa-github-alt fa-fw"></i></a></li>
+  		                <li class="list-inline-item"><a class="text-white" target="_blank" href="https://stackoverflow.com/users/7715828/hasan-bd"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
+  		                <li class="list-inline-item"><a class="text-white" target="_blank" href="https://codepen.io/hsnbd/"><i class="fab fa-codepen fa-fw"></i></a></li>
   		            </ul><!--//social-list-->
 
 
@@ -79,10 +78,13 @@
   					<div class="collapse navbar-collapse text-uppercase" id="navigation">
   						<ul class="navbar-nav ml-lg-auto">
   							<li class="nav-item mr-lg-3">
-                    <router-link class="nav-link" to="/" exact>About <span class="sr-only">(current)</span></router-link>
+                                <router-link class="nav-link" to="/" exact>About <span class="sr-only">(current)</span></router-link>
   							</li>
   							<li class="nav-item mr-lg-3">
-                   <router-link class="nav-link" to="/projects">Projects</router-link>
+                                <router-link class="nav-link" to="/projects">Projects</router-link>
+  							</li>
+  							<li class="nav-item mr-lg-3">
+                                <router-link class="nav-link" to="/resume">Resume</router-link>
   							</li>
   							<li class="nav-item mr-lg-3">
   							    <router-link class="nav-link" to="/blogs">Blogs</router-link>
@@ -107,7 +109,7 @@
       <router-view></router-view>
 
       <footer class="footer text-light text-center py-2">
-  	    <small class="copyright">Template Copyright &copy; <a class="text-light" href="https://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>
+  	    <small class="copyright">Copyright &copy; <a class="text-light" href="https://hsnbd.github.io/" target="_blank">TechNest Software LTD</a></small>
       </footer>
     </main>
 
@@ -120,6 +122,7 @@
     <script src="js/pages/blogs.js"></script>
     <script src="js/pages/projects.js"></script>
     <script src="js/pages/home.js"></script>
+    <script src="js/pages/resume.js"></script>
     <!-- start up vue  -->
     <script src="js/main.js"></script>
 
