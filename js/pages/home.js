@@ -96,7 +96,7 @@ var Home = {
                       <h3>CITY CAB</h3>
                   </div>
                 </div>
-                <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
+                <a class="card-img-overlay overlay-content text-left p-lg-4" href="/#/">
                   <h5 class="card-title font-weight-bold">Client: City's</h5>
                     <p class="card-text">
                         City Cab is an organization to support Airport passenger to go everywhere they want order through mobile device...
@@ -104,7 +104,7 @@ var Home = {
                 </a>
               </div>
               <div class="card-body pb-0">
-                <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">AIR Transfer</a></h4>
+                <h4 class="card-title text-truncate text-center mb-0"><a href="/#/">AIR Transfer</a></h4>
               </div>
 
               <div class="card-footer border-0 text-center bg-white pb-4">
@@ -126,7 +126,7 @@ var Home = {
                       <h2>Mahofi</h2>
                   </div>
                 </div>
-                <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
+                <a class="card-img-overlay overlay-content text-left p-lg-4" href="/#/">
                   <h5 class="card-title font-weight-bold">Client: Mahofi</h5>
                     <p class="card-text">
                         Video Streaming site for Android and IOS application and manage content from Secure Web Admin panel...
@@ -134,7 +134,7 @@ var Home = {
                 </a>
               </div>
               <div class="card-body pb-0">
-                <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">Video Streaming App</a></h4>
+                <h4 class="card-title text-truncate text-center mb-0"><a href="/#/">Video Streaming App</a></h4>
               </div>
 
               <div class="card-footer border-0 text-center bg-white pb-4">
@@ -156,7 +156,7 @@ var Home = {
                       <h2>Shipsolve</h2>
                   </div>
                 </div>
-                <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
+                <a class="card-img-overlay overlay-content text-left p-lg-4" href="/#/">
                   <h5 class="card-title font-weight-bold">Client: Shipsolve</h5>
                     <p class="card-text">
                         To support import/export business Shipsolve transport and cargo provide various type of service about import/export...
@@ -164,7 +164,7 @@ var Home = {
                 </a>
               </div>
               <div class="card-body pb-0">
-                <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">Mobile app development</a></h4>
+                <h4 class="card-title text-truncate text-center mb-0"><a href="/#/">Mobile app development</a></h4>
               </div>
 
               <div class="card-footer border-0 text-center bg-white pb-4">
@@ -180,7 +180,7 @@ var Home = {
 
             </div><!--//row-->
             <!-- <div class="text-center">
-                <a class="btn btn-primary" href="projects.html">View all projects</a>
+                <a class="btn btn-primary" /#/>View all projects</a>
             </div> -->
           </div><!--///container-->
 
@@ -197,14 +197,14 @@ var Home = {
                     <img class="card-img-top rounded-0" src="assets/images/blog/blog-post-thumb-1.jpg" alt="">
                     <div class="card-img-overlay overlay-mask overlay-logo text-center p-0">
                       <div class="overlay-mask-content text-center w-100 position-absolute">
-                      <a class="btn btn-primary" href="blog-post.html">Read more</a>
+                      <a class="btn btn-primary" /#/>Read more</a>
                       </div>
-                      <a class="overlay-mask-link position-absolute w-100 h-100" href="blog-post.html"></a>
+                      <a class="overlay-mask-link position-absolute w-100 h-100" /#/></a>
                 </div>
               </div>
               <div class="card-body pb-4">
 
-                <h4 class="card-title text-truncate mb-2"><a href="blog-post.html">How to Create an Angular Library</a></h4>
+                <h4 class="card-title text-truncate mb-2"><a /#/>How to Create an Angular Library</a></h4>
                 <div class="card-text">
                   <ul class="meta list-inline mb-1">
                     <li class="list-inline-item mr-3"><i class="far fa-clock mr-2"></i>June 26, 2018</li>
@@ -222,14 +222,14 @@ var Home = {
                     <img class="card-img-top rounded-0" src="assets/images/blog/blog-post-thumb-2.jpg" alt="">
                     <div class="card-img-overlay overlay-mask overlay-logo text-center p-0">
                       <div class="overlay-mask-content text-center w-100 position-absolute">
-                      <a class="btn btn-primary" href="blog-post.html">Read more</a>
+                      <a class="btn btn-primary" /#/>Read more</a>
                       </div>
-                      <a class="overlay-mask-link position-absolute w-100 h-100" href="blog-post.html"></a>
+                      <a class="overlay-mask-link position-absolute w-100 h-100" /#/></a>
                 </div>
               </div>
               <div class="card-body pb-4">
 
-                <h4 class="card-title text-truncate mb-2"><a href="blog-post.html">React, Bootstrap, and Angular- The Basics</a></h4>
+                <h4 class="card-title text-truncate mb-2"><a /#/>React, Bootstrap, and Angular- The Basics</a></h4>
                 <div class="card-text">
                   <ul class="meta list-inline mb-1">
                     <li class="list-inline-item mr-3"><i class="far fa-clock mr-2"></i>June 18, 2018</li>
@@ -248,14 +248,14 @@ var Home = {
                     <img class="card-img-top rounded-0" src="assets/images/blog/blog-post-thumb-3.jpg" alt="">
                     <div class="card-img-overlay overlay-mask overlay-logo text-center p-0">
                       <div class="overlay-mask-content text-center w-100 position-absolute">
-                      <a class="btn btn-primary" href="blog-post.html">Read more</a>
+                      <a class="btn btn-primary" /#/>Read more</a>
                       </div>
-                      <a class="overlay-mask-link position-absolute w-100 h-100" href="blog-post.html"></a>
+                      <a class="overlay-mask-link position-absolute w-100 h-100" /#/></a>
                 </div>
               </div>
               <div class="card-body pb-4">
 
-                <h4 class="card-title text-truncate mb-2"><a href="blog-post.html">Best Practices for Code Review</a></h4>
+                <h4 class="card-title text-truncate mb-2"><a /#/>Best Practices for Code Review</a></h4>
                 <div class="card-text">
                   <ul class="meta list-inline mb-1">
                     <li class="list-inline-item mr-3"><i class="far fa-clock mr-2"></i>May 7, 2018</li>
@@ -273,14 +273,14 @@ var Home = {
                     <img class="card-img-top rounded-0" src="assets/images/blog/blog-post-thumb-4.jpg" alt="">
                     <div class="card-img-overlay overlay-mask overlay-logo text-center p-0">
                       <div class="overlay-mask-content text-center w-100 position-absolute">
-                      <a class="btn btn-primary" href="blog-post.html">Read more</a>
+                      <a class="btn btn-primary" /#/>Read more</a>
                       </div>
-                      <a class="overlay-mask-link position-absolute w-100 h-100" href="blog-post.html"></a>
+                      <a class="overlay-mask-link position-absolute w-100 h-100" /#/></a>
                 </div>
               </div>
               <div class="card-body pb-4">
 
-                <h4 class="card-title text-truncate mb-2"><a href="blog-post.html">Learn React Components</a></h4>
+                <h4 class="card-title text-truncate mb-2"><a /#/>Learn React Components</a></h4>
                 <div class="card-text">
                   <ul class="meta list-inline mb-1">
                     <li class="list-inline-item mr-3"><i class="far fa-clock mr-2"></i>Apr 25, 2018</li>
@@ -299,7 +299,7 @@ var Home = {
           </div>
 
           <div class="text-center">
-              <a class="btn btn-primary" href="blog.html">View all posts</a>
+              <a class="btn btn-primary" /#/>View all posts</a>
           </div>
 
 

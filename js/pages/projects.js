@@ -15,7 +15,7 @@ var Projects = {
                     <h3>CITY CAB</h3>
                 </div>
               </div>
-              <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
+              <a class="card-img-overlay overlay-content text-left p-lg-4" href="/#/">
                 <h5 class="card-title font-weight-bold">Client: City's</h5>
                   <p class="card-text">
                       City Cab is an organization to support Airport passenger to go everywhere they want order through mobile device...
@@ -23,7 +23,7 @@ var Projects = {
               </a>
             </div>
             <div class="card-body pb-0">
-              <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">AIR Transfer</a></h4>
+              <h4 class="card-title text-truncate text-center mb-0"><a href="/#/">AIR Transfer</a></h4>
             </div>
 
             <div class="card-footer border-0 text-center bg-white pb-4">
@@ -45,7 +45,7 @@ var Projects = {
                     <h2>Mahofi</h2>
                 </div>
               </div>
-              <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
+              <a class="card-img-overlay overlay-content text-left p-lg-4" href="/#/">
                 <h5 class="card-title font-weight-bold">Client: Mahofi</h5>
                   <p class="card-text">
                       Video Streaming site for Android and IOS application and manage content from Secure Web Admin panel...
@@ -53,7 +53,7 @@ var Projects = {
               </a>
             </div>
             <div class="card-body pb-0">
-              <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">Video Streaming App</a></h4>
+              <h4 class="card-title text-truncate text-center mb-0"><a href="/#/">Video Streaming App</a></h4>
             </div>
 
             <div class="card-footer border-0 text-center bg-white pb-4">
@@ -75,7 +75,7 @@ var Projects = {
                     <h2>Shipsolve</h2>
                 </div>
               </div>
-              <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
+              <a class="card-img-overlay overlay-content text-left p-lg-4" href="/#/">
                 <h5 class="card-title font-weight-bold">Client: Shipsolve</h5>
                   <p class="card-text">
                       To support import/export business Shipsolve transport and cargo provide various type of service about import/export...
@@ -83,7 +83,7 @@ var Projects = {
               </a>
             </div>
             <div class="card-body pb-0">
-              <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">Mobile app development</a></h4>
+              <h4 class="card-title text-truncate text-center mb-0"><a href="/#/">Mobile app development</a></h4>
             </div>
 
             <div class="card-footer border-0 text-center bg-white pb-4">
@@ -99,7 +99,7 @@ var Projects = {
 
           </div><!--//row-->
           <!-- <div class="text-center">
-              <a class="btn btn-primary" href="projects.html">View all projects</a>
+              <a class="btn btn-primary" /#/>View all projects</a>
           </div> -->
         </div><!--///container-->
 
