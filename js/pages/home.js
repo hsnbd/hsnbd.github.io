@@ -92,22 +92,26 @@ var Home = {
               <div class="card-img-container position-relative">
                 <img class="card-img-top rounded-0" src="assets/images/projects/project-1-thumb.jpg" alt="">
                 <div class="card-img-overlay overlay-logo text-center">
-                  <div class="project-logo"><img class="img-fluid w-50" src="assets/images/logos/logo-1-inverse.svg"></div>
+                  <div class="project-logo">
+                      <h3>CITY CAB</h3>
+                  </div>
                 </div>
                 <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
-                  <h5 class="card-title font-weight-bold">Client: Google</h5>
-                    <p class="card-text">Project summary goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel sapien quis nulla dictum euismod...</p>
+                  <h5 class="card-title font-weight-bold">Client: City's</h5>
+                    <p class="card-text">
+                        City Cab is an organization to support Airport passenger to go everywhere they want order through mobile device...
+                    </p>
                 </a>
               </div>
               <div class="card-body pb-0">
-                <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">SaaS Product</a></h4>
+                <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">AIR Transfer</a></h4>
               </div>
 
               <div class="card-footer border-0 text-center bg-white pb-4">
                 <ul class="list-inline mb-0 mx-auto">
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Angular</span></li>
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill" >Django</span></li>
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">MongoDB</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Vue.js</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill" >PHP</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Laravel</span></li>
                       <li class="list-inline-item"><span class="badge badge-secondary badge-pill">HTML/CSS</span></li>
                 </ul>
                 </div>
@@ -118,23 +122,27 @@ var Home = {
               <div class="card-img-container position-relative">
                 <img class="card-img-top rounded-0" src="assets/images/projects/project-2-thumb.jpg" alt="">
                 <div class="card-img-overlay overlay-logo text-center">
-                  <div class="project-logo"><img class="img-fluid w-50" src="assets/images/logos/logo-2-inverse.svg"></div>
+                  <div class="project-logo">
+                      <h2>Mahofi</h2>
+                  </div>
                 </div>
                 <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
-                  <h5 class="card-title font-weight-bold">Client: Basecamp</h5>
-                    <p class="card-text">Project summary goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel sapien quis nulla dictum euismod...</p>
+                  <h5 class="card-title font-weight-bold">Client: Mahofi</h5>
+                    <p class="card-text">
+                        Video Streaming site for Android and IOS application and manage content from Secure Web Admin panel...
+                    </p>
                 </a>
               </div>
               <div class="card-body pb-0">
-                <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">Webapp Development</a></h4>
+                <h4 class="card-title text-truncate text-center mb-0"><a href="project.html">Video Streaming App</a></h4>
               </div>
 
               <div class="card-footer border-0 text-center bg-white pb-4">
                 <ul class="list-inline mb-0 mx-auto">
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill" >Rails</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill" >PHP</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Laravel</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Passport</span></li>
                       <li class="list-inline-item"><span class="badge badge-secondary badge-pill">jQuery</span></li>
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">PostgresSQL</span></li>
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">HTML/LESS</span></li>
                 </ul>
                 </div>
               </div><!--//card-->
@@ -144,11 +152,15 @@ var Home = {
               <div class="card-img-container position-relative">
                 <img class="card-img-top rounded-0" src="assets/images/projects/project-3-thumb.jpg" alt="">
                 <div class="card-img-overlay overlay-logo text-center">
-                  <div class="project-logo"><img class="img-fluid w-50" src="assets/images/logos/logo-3-inverse.svg"></div>
+                  <div class="project-logo">
+                      <h2>Shipsolve</h2>
+                  </div>
                 </div>
                 <a class="card-img-overlay overlay-content text-left p-lg-4" href="project.html">
-                  <h5 class="card-title font-weight-bold">Client: Airbnb</h5>
-                    <p class="card-text">Project summary goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel sapien quis nulla dictum euismod...</p>
+                  <h5 class="card-title font-weight-bold">Client: Shipsolve</h5>
+                    <p class="card-text">
+                        To support import/export business Shipsolve transport and cargo provide various type of service about import/export...
+                        </p>
                 </a>
               </div>
               <div class="card-body pb-0">
@@ -157,19 +169,19 @@ var Home = {
 
               <div class="card-footer border-0 text-center bg-white pb-4">
                 <ul class="list-inline mb-0 mx-auto">
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">React</span></li>
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill" >Python</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Laravel</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill" >Axios</span></li>
+                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Vuejs</span></li>
                       <li class="list-inline-item"><span class="badge badge-secondary badge-pill">MySQL</span></li>
-                      <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Webpack</span></li>
                 </ul>
                 </div>
               </div><!--//card-->
               </div>
 
             </div><!--//row-->
-            <div class="text-center">
+            <!-- <div class="text-center">
                 <a class="btn btn-primary" href="projects.html">View all projects</a>
-            </div>
+            </div> -->
           </div><!--///container-->
 
       </section>
@@ -301,10 +313,10 @@ var Home = {
             </div>
             <h3 class="section-title font-weight-bold text-center mb-2">Interested in hiring me for your project?</h3>
             <div class="section-intro mx-auto text-center mb-3">
-              Looking for an experienced full-stack developer to build your web app or ship your software product? To start an initial chat, just drop me an email at <a class="link-on-bg text-success" href="#">steve.doe@youremail.com</a> or use the <a class="link-on-bg text-success" href="contact.html">form on the contact page</a>.
+              Looking for an experienced full-stack developer to build your web app or ship your software product? To start an initial chat, just drop me an email at <a class="link-on-bg text-success" href="#">hasanbd666@gmail.com</a> or use the <a class="link-on-bg text-success" href="/#/contact">form on the contact page</a>.
             </div>
             <div class="text-center">
-                <a class="theme-btn-on-bg btn" href="contact.html">Let's Talk</a>
+                <a class="theme-btn-on-bg btn" href="/#/contact">Let's Talk</a>
             </div>
         </div><!--//container-->
       </section>
