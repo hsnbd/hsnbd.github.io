@@ -37,7 +37,7 @@ var Home = {
                     </div>
                     <ul class="skills-list list-unstyled text-secondary">
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Javascript</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Node.js</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>React.js</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Vuejs</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>HTML/CSS/SASS/LESS</li>
                     </ul>
@@ -52,9 +52,10 @@ var Home = {
                     </div>
                     <ul class="skills-list list-unstyled text-secondary">
                     <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>PHP/Laravel</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Python/Django</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>PostgresSQL/MySQL</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>MongoDB</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Node.js</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Golang</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>MySQL/PostgresSQL</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Elk Stack</li>
                     </ul>
                   </div><!--//skills-block-inner-->
                 </div><!--//skills-block-->
@@ -68,7 +69,7 @@ var Home = {
                     <ul class="skills-list list-unstyled text-secondary">
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>DevOps</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Unit Testing</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>UX/Wireframing</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Audit Logging</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Linux/Server</li>
                     </ul>
                   </div><!--//skills-block-inner-->
