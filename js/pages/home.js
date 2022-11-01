@@ -67,7 +67,7 @@ var Home = {
                         <img class="skills-icon" src="assets/images/other-skills-icon.svg">
                     </div>
                     <ul class="skills-list list-unstyled text-secondary">
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Elk Stack</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>ELK Stack</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>RabbitMQ</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Kafka</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Docker</li>
