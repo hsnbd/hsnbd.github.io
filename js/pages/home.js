@@ -55,7 +55,7 @@ var Home = {
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Node.js</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Golang</li>
                       <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>MySQL/PostgresSQL</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Elk Stack</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Unit Testing</li>
                     </ul>
                   </div><!--//skills-block-inner-->
                 </div><!--//skills-block-->
@@ -67,10 +67,10 @@ var Home = {
                         <img class="skills-icon" src="assets/images/other-skills-icon.svg">
                     </div>
                     <ul class="skills-list list-unstyled text-secondary">
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>DevOps</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Unit Testing</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Audit Logging</li>
-                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Linux/Server</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Elk Stack</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>RabbitMQ</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Kafka</li>
+                      <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Docker</li>
                     </ul>
                   </div><!--//skills-block-inner-->
                 </div><!--//skills-block-->
